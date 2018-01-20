@@ -50,6 +50,9 @@
       "WebService::BitFlyer" : {
          "file" : "lib/WebService/BitFlyer.pm",
          "version" : "0.01"
+      },
+      "WebService::BitFlyer::API" : {
+         "file" : "lib/WebService/BitFlyer/API.pm"
       }
    },
    "release_status" : "stable",
