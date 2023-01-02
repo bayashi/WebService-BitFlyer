@@ -129,7 +129,7 @@ __END__
 
 =head1 NAME
 
-WebService::BitFlyer - one line description
+WebService::BitFlyer - Perl libraries for bitFlyer API.
 
 
 =head1 SYNOPSIS
